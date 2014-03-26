@@ -1,0 +1,5 @@
+Umami Burger	Gourmet Burgers	$15
+Pizza My Heart	Pizza Slices	$5
+Antonio's Nuthouse	Bar Food	$10
+McDonald's	Fast Food	6
+Sancho's Tacos	Mexican	7
