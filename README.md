@@ -1,0 +1,1 @@
+This is a simple program that will allow the user to add, list, or find restaurants that are stored in a file called restaurants.txt. Runs from the command line. To run the program type "ruby init.rb" when in the terminal.
